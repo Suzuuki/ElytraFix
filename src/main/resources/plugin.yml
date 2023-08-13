@@ -1,0 +1,7 @@
+name: ElytraFix
+version: '${project.version}'
+main: ru.sasuke.elytrafix.ElytraFix
+api-version: 1.16
+depend:
+  - WorldGuard
+  - FastAsyncWorldEdit
